@@ -8,7 +8,7 @@
       <link href="/2020/03/30/TEST/"/>
       <url>/2020/03/30/TEST/</url>
       
-        <content type="html"><![CDATA[<p>This is a test .md file.</p><h2 id="Test1"><a href="#Test1" class="headerlink" title="Test1"></a>Test1</h2><h3 id="test1"><a href="#test1" class="headerlink" title="test1"></a>test1</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ cd ~&#x2F;Documents&#x2F;Blog</span><br><span class="line">$ hexo g -d</span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<p>This is a test .md file.<a id="more"></a></p><h2 id="Test1"><a href="#Test1" class="headerlink" title="Test1"></a>Test1</h2><h3 id="test1"><a href="#test1" class="headerlink" title="test1"></a>test1</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ cd ~&#x2F;Documents&#x2F;Blog</span><br><span class="line">$ hexo g -d</span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
